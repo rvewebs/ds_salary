@@ -9,6 +9,7 @@ python-dotenv==1.0.0
 json==2.0.9
 openpyxl==3.0.10
 country_converter==1.2
+wbdata==0.3.0
 
 optuna==3.4.0
 mlflow==2.8.1
