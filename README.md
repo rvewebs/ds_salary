@@ -10,4 +10,6 @@ https://huggingface.co/WhereIsAI/UAE-Large-V1/tree/main from https://huggingface
 
 ## inflation data
 
-https://www.worldbank.org/en/research/brief/inflation-database 
+2020-2022 years https://www.worldbank.org/en/research/brief/inflation-database 
+
+2023 year https://inflationdata.com/articles/2023/12/19/worldwide-inflation-by-country-in-2023/ 
