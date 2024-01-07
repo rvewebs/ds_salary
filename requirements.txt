@@ -10,9 +10,10 @@ json==2.0.9
 openpyxl==3.0.10
 country_converter==1.2
 wbdata==0.3.0
+optuna==3.5.0
+mlflow==2.9.2
 
-optuna==3.4.0
-mlflow==2.8.1
+
 pydantic==2.5.2
 fastapi==0.104.1
 uvicorn==0.24.0.post1
